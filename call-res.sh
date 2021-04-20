@@ -1,5 +1,5 @@
 curl -X POST \
--H "Authorization: Key 09af898f-26b0-4325-abeb-f9611a36137d" \
+-H "Authorization: Key a643643f-8b61-423c-bff6-1c15614d0917" \
 -H 'Content-Type: application/json' \
 -d '{
   "check": "custom-auto-heal-pg185155",
